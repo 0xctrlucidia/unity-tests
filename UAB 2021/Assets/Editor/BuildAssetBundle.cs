@@ -12,7 +12,7 @@ public class CreateAssetBundles
             Directory.CreateDirectory(assetBundleDirectory);
         }
         BuildPipeline.BuildAssetBundles(assetBundleDirectory, 
-                                        BuildAssetBundleOptions.UncompressedAssetBundle, 
+                                        BuildAssetBundleOptions.None, 
                                         EditorUserBuildSettings.activeBuildTarget);
     }
 }

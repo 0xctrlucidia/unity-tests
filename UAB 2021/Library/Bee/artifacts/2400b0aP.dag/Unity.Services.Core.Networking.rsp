@@ -102,8 +102,8 @@
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"/home/jd65/Documents/trash_grabage/UAB 2021/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/AOT/Newtonsoft.Json.dll"
--r:"/home/jd65/Documents/trash_grabage/UAB 2021/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"/home/jd65/Documents/godot/plugins/UABiG/Unity/UAB 2021/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/AOT/Newtonsoft.Json.dll"
+-r:"/home/jd65/Documents/godot/plugins/UABiG/Unity/UAB 2021/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"/run/media/jd65/rootfs/home/wiptracker/unity/2021.3.16f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"/run/media/jd65/rootfs/home/wiptracker/unity/2021.3.16f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
 -r:"/run/media/jd65/rootfs/home/wiptracker/unity/2021.3.16f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll"
